@@ -1,6 +1,6 @@
 ---
 título: "resultados"
-authors: "rodrigo rolim veras"
+authors: "rodrigo rolim veras, beatriz leandro bonafini, marcos antonio nespolo junior"
 date: "2024-04-09"
 output: pdf_document
 ---
